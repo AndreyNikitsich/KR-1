@@ -1,0 +1,6 @@
+1;Jhon Sina;unknown;WWE;123
+2;Conor McChicken;unknown;UFC;28
+3;Dobriy Kon;unknown;Dota 2;456
+4;Lysic Yan;25.10.2001;CS:GO;3000
+4;Lysic Yan;25.10.2001;Minecraft;3000
+4;Lysic Yan;25.10.2001;workout;25

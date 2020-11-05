@@ -1,0 +1,4 @@
+username;login;email;password;role
+Andrey;andre;andre@gmail.com;12345;Admin
+1;2;3;4;5
+Andrey;sosiskaKiller;sosiska@gmail.com;12345;ADMIN
